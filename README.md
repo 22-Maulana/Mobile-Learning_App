@@ -1,4 +1,4 @@
-# project2
+# Mobile Learning App With Local Storage
 
 A new Flutter project.
 
